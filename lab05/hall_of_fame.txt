@@ -1,0 +1,3 @@
+Hero: Arthur, Score: 72, Status: survived
+Hero: Arthur, Score: 28, Status: failed
+Hero: Arthur, Score: 52, Status: survived
